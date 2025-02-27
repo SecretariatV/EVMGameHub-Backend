@@ -1,0 +1,7 @@
+dist
+build
+*.spec.ts
+.eslintrc.js
+.prettierrc.js
+doc
+logs
